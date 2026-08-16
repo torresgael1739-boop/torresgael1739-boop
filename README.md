@@ -1,5 +1,5 @@
 <h1 align="center">Hola, Soy Gael Valentín Torres🙌</h1>
-<h3 align="center">Un estudiante de ingenieria en sistemas muy apasionado.</h3>
+<h3 align="center">Un estudiante de ingenieria en sistemas.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
